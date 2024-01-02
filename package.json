@@ -1,13 +1,13 @@
 {
   "name": "cureATM",
   "version": "0.0.1",
-  "description": "cureATM official site",
+  "description": "cureATM unOfficial site",
   "main": "index.js",
   "authors": {
     "name": "n1lsqn",
     "email": "owner@n1l.dev"
   },
-  "repository": "cureATM_site/cureATM",
+  "repository": "n1lsqn/cureATM_site",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
