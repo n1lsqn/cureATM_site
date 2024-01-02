@@ -1,0 +1,19 @@
+{
+  "name": "cureATM",
+  "version": "0.0.1",
+  "description": "cureATM official site",
+  "main": "index.js",
+  "authors": {
+    "name": "n1lsqn",
+    "email": "owner@n1l.dev"
+  },
+  "repository": "cureATM_site/cureATM",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
